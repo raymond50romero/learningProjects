@@ -10,8 +10,8 @@
 
 ## Easy Project: Command-line Calculator / Mini Shell
 
-**Description:** Build a command-line tool that accepts basic math operations or simple shell-like commands (e.g. 'ls', 'cd', 'exit') and executes them.
-**Expectations:** Robust CLI interface with error handling and interactive input loop. Supports at least 4 math operations or 3 shell commands.
+**Description:** Build a command-line tool that accepts basic math operations and executes them.
+**Expectations:** Robust CLI interface with error handling and interactive input loop. Supports at least 4 math operations.
 **Passing Criteria:**
 
 - Accepts user input continuously (REPL style)
