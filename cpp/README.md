@@ -19,6 +19,17 @@
 - Prints result or error message if invalid
 - Implements 'exit' to quit the loop
 
+## Easy Project: Unit Converter
+
+**Description:** Convert between units like meters to feet, Celsius to Fahrenheit, etc.
+**Expectations:** Accurate math conversions and intuitive CLI interface.
+**Passing Criteria:**
+
+- Support at least 3 unit types
+- User selects type and value to convert
+- Outputs converted result
+- Handles invalid input
+
 ## Easy Project: Linked-list / Tree / Graph Simulation
 
 **Description:** Implement data structures like singly/doubly linked list, binary tree, or simple graph and perform basic operations on them.
@@ -51,17 +62,6 @@
 - Retrieve credentials for a given site
 - Save/load data from file
 - Use simple encryption (e.g., XOR cipher)
-
-## Easy Project: Unit Converter
-
-**Description:** Convert between units like meters to feet, Celsius to Fahrenheit, etc.
-**Expectations:** Accurate math conversions and intuitive CLI interface.
-**Passing Criteria:**
-
-- Support at least 3 unit types
-- User selects type and value to convert
-- Outputs converted result
-- Handles invalid input
 
 ## Easy Project: To-Do List CLI App
 
